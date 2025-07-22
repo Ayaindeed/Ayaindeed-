@@ -6,7 +6,7 @@ I love exploring patterns, wrangling complex datasets, and turning queries into 
 
 ---
 
-## 🧰 Tools of the Trade
+## Tools of the Trade
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Spark"/>
@@ -21,7 +21,7 @@ I love exploring patterns, wrangling complex datasets, and turning queries into 
 </p>
 ---
 
-## 💬 About Me
+## About Me
 - Data enthusiast with a flair for structured chaos
 - Always curious, always learning
 - Strong believer in reproducibility and clean code
@@ -29,7 +29,7 @@ I love exploring patterns, wrangling complex datasets, and turning queries into 
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 ![Ayaindeed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayaindeed&show_icons=true&hide_title=true&theme=tokyonight)
 
 ---
