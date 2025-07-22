@@ -29,6 +29,5 @@ I love exploring patterns, wrangling complex datasets, and turning queries into 
 
 ---
 
-## My GitHub Contributions Snake Animation
+![Snake Animation](https://raw.githubusercontent.com/Ayaindeed/Ayaindeed-/output/github-contribution-grid-snake.svg)
 
-![GitHub Contributions Snake](https://raw.githubusercontent.com/Ayaindeed/Ayaindeed-/output/dist/github-contribution-grid-snake.svg)
