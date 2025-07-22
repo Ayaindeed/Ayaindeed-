@@ -29,12 +29,3 @@ I love exploring patterns, wrangling complex datasets, and turning queries into 
 
 ---
 
-## GitHub Stats
-![Ayaindeed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayaindeed&show_icons=true&hide_title=true&theme=tokyonight)
-
----
-
-## 🐍 Snake Contributions Animation
-![Snake animation](https://github.com/YOUR_USERNAME/Ayaindeed/blob/output/github-contribution-grid-snake.svg)
-
----
